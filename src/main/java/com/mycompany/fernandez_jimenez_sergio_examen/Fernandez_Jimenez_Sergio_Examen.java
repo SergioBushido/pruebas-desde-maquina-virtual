@@ -10,7 +10,10 @@ package com.mycompany.fernandez_jimenez_sergio_examen;
  * @author Fernandez
  */
 public class Fernandez_Jimenez_Sergio_Examen {
-
+/**
+ * a ver que coño pasa
+ * @param args 
+ */
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
